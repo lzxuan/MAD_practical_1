@@ -40,8 +40,8 @@ class MainActivity : AppCompatActivity() {
             resultText.text = (num + 1).toString()
         }
 
-        /* Sample Answer
-        if (resultText.text == "Hello world!") {
+        //Sample Answer
+        /*if (resultText.text == "Hello world!") {
             resultText.text = "1"
         } else {
             var resultInt = resultText.text.toString().toInt()
